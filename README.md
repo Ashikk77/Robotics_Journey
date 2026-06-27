@@ -19,5 +19,5 @@ This repository documents my one-year journey from beginner to robotics engineer
 - [x] Git installed
 - [x] Git repository initialized
 - [x] Local Git configured
-- [ ] First commit
+- [x] First commit
 - [ ] First GitHub push
